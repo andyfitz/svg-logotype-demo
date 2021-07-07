@@ -1,0 +1,2 @@
+(this["webpackJsonpmake-hello-world"]=this["webpackJsonpmake-hello-world"]||[]).push([[0],{10:function(e,t,n){},12:function(e,t,n){"use strict";n.r(t);var r=n(4),c=n(0),a=n(1),o=n.n(a),s=n(3),l=n.n(s);n(10);function i(e){var t=e.name;return Object(c.jsx)("div",{className:"App",children:Object(c.jsx)("h1",{children:t})})}i.defaultProps={name:"Believe"};var d=i;n(11);l.a.render(Object(c.jsx)(o.a.StrictMode,{children:Object(c.jsx)(d,Object(r.a)({},window.templateProps))}),document.getElementById("root"))}},[[12,1,2]]]);
+//# sourceMappingURL=main.4a51d0ee.chunk.js.map
